@@ -1,9 +1,18 @@
 # Guess The Number Game In Cpp
- Author - AsmirHabibi
- Version - 1.0.0
- Date - 14/12/2023
+ Author - AsmirHabibi <br>
+ Version - 1.0.0 <br>
+ Date - 14/12/2023 <br>
+ Programming Language - C++ <br>
+ Platform(s) - Windows
 
-# First Release
+# Instructions for running The Game
+ go to command prompt or Windows Powershell or Git Bash and write:
+ g++ -o your_file_name main.cpp level_system.cpp Easy_Mode.cpp Medium_Mode.cpp Hard_Mode.cpp
+ and then,
+ ./your_file_name
+
+
+# Game Structure
  It has 3 Modes:
 
 # Easy Mode
