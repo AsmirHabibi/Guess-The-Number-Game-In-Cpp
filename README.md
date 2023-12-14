@@ -6,9 +6,9 @@
  Platform(s) - Windows
 
 # Instructions for running The Game
- go to command prompt or Windows Powershell or Git Bash and write:
- g++ -o your_file_name main.cpp level_system.cpp Easy_Mode.cpp Medium_Mode.cpp Hard_Mode.cpp
- and then,
+ go to command prompt or Windows Powershell or Git Bash and write:<br>
+ g++ -o your_file_name main.cpp level_system.cpp Easy_Mode.cpp Medium_Mode.cpp Hard_Mode.cpp<br>
+ and then,<br>
  ./your_file_name
 
 
@@ -16,15 +16,15 @@
  It has 3 Modes:
 
 # Easy Mode
- You have to guess a number between 1 and 25.
+ You have to guess a number between 1 and 25.<br>
  You have infinite attempts because it is easy mode.
 
 # Medium Mode
- You have to guess a number between 1 and 25.
- You have 15 attempts.
+ You have to guess a number between 1 and 25.<br>
+ You have 15 attempts.<br>
  If you loose, it will give you a prompt to restart or Exit the game.
 
 # Hard Mode
- This is not an Easy levels like before.
- You have ONLY 10 tries.
+ This is not an Easy levels like before.<br>
+ You have ONLY 10 tries.<br>
  If you loose, it will give you a prompt to restart or Exit the game.
